@@ -1,5 +1,5 @@
-# Takeover Time-driven Adaptive bi-phased Evolutionary Algorithm 
-**Summary:** This repository contains the source code of the Takeover Time-driven Adaptive bi-phased Evolutionary Algorithm (TD-EA) for solving the Mobility Management Problem (MMP) in cellular networks [1]. 
+# Takeover Time-Driven Adaptive Bi-Phased Evolutionary Algorithm 
+**About:** This repository contains the source code of the Takeover Time-driven Adaptive bi-phased Evolutionary Algorithm (TD-EA) for solving the Mobility Management Problem (MMP) in cellular networks [1]. 
 
 **Contact:** zakaria.dahi@uma.es, zakaria.dahi@univ-constantine2.dz
 
