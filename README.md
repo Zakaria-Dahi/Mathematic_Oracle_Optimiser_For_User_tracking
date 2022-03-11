@@ -8,7 +8,7 @@
 
 **Notes:**
 - It is prefered that you use Matlab R2014a to run the code as it is. 
-- If you use newer versions of Matlab, you will probably need to update some obselete functions such as "Mat2Cell".
+- If you use newer versions of Matlab, you will probably need to update some obselete functions such as **```Mat2Cell```**.
 
 **File organisation:**
 - **```main.m```:**
