@@ -26,4 +26,4 @@
 - **```xlwrite.m```:**
 - **```Jar```:**
 
-> [1] Zakaria Abdelmoiz Dahi, Enrique Alba, Gabriel Luque, A takeover time-driven adaptive evolutionary algorithm for mobile user tracking in pre-5G cellular networks, Applied Soft Computing, Volume 116, 2022, 107992, ISSN 1568-4946, [DOI](https://doi.org/10.1016/j.asoc.2021.107992), [URL](https://www.sciencedirect.com/science/article/pii/S1568494621009145)
+> [1] Zakaria Abdelmoiz Dahi, Enrique Alba, Gabriel Luque, A takeover time-driven adaptive evolutionary algorithm for mobile user tracking in pre-5G cellular networks, Applied Soft Computing, Volume 116, 2022, 107992, ISSN 1568-4946, [DOI](https://doi.org/10.1016/j.asoc.2021.107992), [URL](https://www.sciencedirect.com/science/article/pii/S1568494621009145).
