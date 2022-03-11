@@ -9,7 +9,7 @@
 - It is prefered that you use Matlab R2014a to run the code as it is. 
 - If you use newer versions of Matlab, you will probably need to update some obselete functions such as ```Mat2Cell```.
 
-**File organisation:**
+**Files:**
 - **```main.m```:** Allows you to set the algorithm's/experimentation's parameters and launch an execution.
 - **```Crossover.m```:** The crossover operator.
 - **```Elitist_selection.m```:** The selection operator.
@@ -24,4 +24,4 @@
 - **```xlwrite.m```:** Implements the Xlwrite function to store the results of experimentations (Ideal for Linux clusters).
 - **```Jar```:** Contains the ```jar``` needed to execute ```xlwrite.m```.
 
-> [1] Zakaria Abdelmoiz Dahi, Enrique Alba, Gabriel Luque, A takeover time-driven adaptive evolutionary algorithm for mobile user tracking in pre-5G cellular networks, Applied Soft Computing, Volume 116, 2022, 107992, ISSN 1568-4946, [DOI](https://doi.org/10.1016/j.asoc.2021.107992), [URL](https://www.sciencedirect.com/science/article/pii/S1568494621009145).
+> **[1]** Zakaria Abdelmoiz Dahi, Enrique Alba, Gabriel Luque, A takeover time-driven adaptive evolutionary algorithm for mobile user tracking in pre-5G cellular networks, Applied Soft Computing, Volume 116, 2022, 107992, ISSN 1568-4946, [DOI](https://doi.org/10.1016/j.asoc.2021.107992), [URL](https://www.sciencedirect.com/science/article/pii/S1568494621009145).
