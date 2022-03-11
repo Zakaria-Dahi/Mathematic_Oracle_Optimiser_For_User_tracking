@@ -3,7 +3,7 @@
 
 **Have Questions:** Please contact zakaria.dahi@uma.es, zakaria.dahi@univ-constantine2.dz
 
-**How To:** To run the TD-EA, execute the file **```main.m```**.
+**How To:** To run the TD-EA, execute the file ```main.m```.
 
 **Notes:**
 - It is prefered that you use Matlab R2014a to run the code as it is. 
