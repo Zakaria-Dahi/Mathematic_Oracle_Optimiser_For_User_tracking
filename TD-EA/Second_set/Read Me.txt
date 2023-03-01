@@ -1,0 +1,5 @@
+this is the heuristic 1 MO-GA using the CHC and the heuristic 1 as local search. This is exactly the saqme as the one in task 35. but:
+
+Test 1 is using 25 combination each time.
+Test 2uses 50 combination each time.
+Test 3 uses 100 combination each time.
